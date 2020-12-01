@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Calcuation PX", "Calcuation PX\Calcuation PX.vbproj", "{ABE08026-F0A6-4564-8EF4-5449DA5CD340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE08026-F0A6-4564-8EF4-5449DA5CD340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE08026-F0A6-4564-8EF4-5449DA5CD340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE08026-F0A6-4564-8EF4-5449DA5CD340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE08026-F0A6-4564-8EF4-5449DA5CD340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6667556C-5B83-460C-9500-492B68C08E48}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\bin\Debug\Calcuation PX.exe.config
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\bin\Debug\Calcuation PX.exe
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\bin\Debug\Calcuation PX.pdb
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\bin\Debug\Calcuation PX.xml
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation_PX.MainMenu.resources
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation_PX.Spec.resources
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation_PX.Resources.resources
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation PX.vbproj.GenerateResource.cache
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation PX.vbproj.CoreCompileInputs.cache
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation PX.exe
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation PX.xml
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation PX.pdb
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation PX.vbprojAssemblyReference.cache
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\bin\Debug\Calcuation PX.exe.manifest
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\bin\Debug\Calcuation PX.application
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation_PX.Capacity.resources
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation PX.exe.manifest
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation PX.application
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation_PX.Shell.resources
+C:\Users\Althok\source\repos\Calcuation PX\Calcuation PX\obj\Debug\Calcuation_PX.Shell2.resources
